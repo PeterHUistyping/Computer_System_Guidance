@@ -3,11 +3,10 @@ The Repo integrates a collection of my *Computer System Projects*, including Dat
 
 ### Links to relevant Project / Repo [submodule]
 #### My Projects
-### Foundation of Machine Learning (naive NLP, Network)
-[CambridgeIA-Machine_Learning-Real_World_Data_with_Python_src](https://github.com/PeterHUistyping/Machine_Learning-Real_World_Data)
-- *Machine Learning Real World Data, University of Cambridge IA*  
-  - Text Classification using ML Naive Bayes;
-  - Cross-Validation, NLP; 
-  - HMM;
-  - Social Network  
+### Database Management System Design
+[CMU15-445_Database_Management_System](https://github.com/PeterHUistyping/CMU15-445_Database_Management_System)
+- *Database Management System Design, CMU 15-445*  
+  - Memory Management (Disk) 
+    - LRU Replacer
+    - Buffer Pool Manager
   
