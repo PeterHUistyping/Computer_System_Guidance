@@ -9,4 +9,15 @@ The Repo integrates a collection of my *Computer System Projects*, including Dat
   - Memory Management (Disk) 
     - LRU Replacer
     - Buffer Pool Manager
+
+### Graphics and Rendering
+[MIT6.837-Computer-Graphics-Fall2004](https://github.com/PeterHUistyping/MIT6.837-CG-Fall2004-Assignment)
+- *Computer Graphics, MIT6.837*  
+  - Self-similar Fractals 
+  - Ray Tracer
+  - Graphics Pipeline
+  - OpenGL
+  - Acceleration
+  - and more ...
   
+
