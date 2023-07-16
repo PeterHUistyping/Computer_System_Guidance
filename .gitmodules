@@ -4,3 +4,6 @@
 [submodule "MIT6.837-CG-Fall2004-Assignment"]
 	path = MIT6.837-CG-Fall2004-Assignment
 	url = git@github.com:PeterHUistyping/MIT6.837-CG-Fall2004-Assignment.git
+[submodule "Operating_System"]
+	path = Operating_System
+	url = git@github.com:PeterHUistyping/Operating_System.git
