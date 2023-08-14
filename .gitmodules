@@ -12,6 +12,7 @@
 	path = Operating_System
 	url = git@github.com:PeterHUistyping/Operating_System.git
 	branch = main
+	
 [submodule "MIT6.824-6.5840-Distributed-Systems"]
 	path = MIT6.824-6.5840-Distributed-Systems
 	url = git@github.com:PeterHUistyping/MIT6.824-6.5840-Distributed-Systems.git
