@@ -31,17 +31,17 @@ In addition, there are also materials (paper, ebook, repo, tool, etc) that I fou
   
 #### Others' Projects
 ### Building a Modern Computer From First Principles
-[Modern_Computer_Official Website](https://www.nand2tetris.org)  
+[🌐Modern_Computer_Official Website](https://www.nand2tetris.org)  
 Noam Nisan and Shimon Schocken (MIT Press)  
   
 ### Computer Systems: A Programmer's Perspective
-[Systems_Online Ebook](https://csapp.cs.cmu.edu/)  
+[📖Systems_Online Ebook](https://csapp.cs.cmu.edu/)  
 Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University  
 
 ### Game Engine
-[Unreal Engine](https://www.unrealengine.com/en-US)  
+[👨‍💻Unreal Engine](https://www.unrealengine.com/en-US)  
 Source code: https://docs.unrealengine.com/5.2/en-US/downloading-unreal-engine-source-code/
 
 ### Physically Based Rendering (PBR)
-[PBR_Online Ebook](https://www.pbr-book.org/)  
+[📖PBR_Online Ebook](https://www.pbr-book.org/)  
 Matt Pharr, Wenzel Jakob, and Greg Humphreys    
