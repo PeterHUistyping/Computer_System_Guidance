@@ -1,6 +1,6 @@
 # Computer System Guidance
-The Repo integrates a collection of my *Computer System Projects*, including Database, OS, Graphics, Game Engines and others.
-
+The Repo integrates a collection of my *Computer System Projects*, including Database, OS, Graphics, Game Engines and others.   
+In addition, there are also materials (paper, ebook, repo, tool, etc) that I found very interesting and helpful attached. I hope it could help you start from beginner to advanced.
 ### Links to relevant Project / Repo [submodule]
 #### My Projects
 ### Operating System
