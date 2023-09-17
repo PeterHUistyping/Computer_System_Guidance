@@ -31,11 +31,11 @@ The Repo integrates a collection of my *Computer System Projects*, including Dat
   
 #### Others' Projects
 ### Building a Modern Computer From First Principles
-[Official Website](https://www.nand2tetris.org)  
+[Modern_Computer_Official Website](https://www.nand2tetris.org)  
 Noam Nisan and Shimon Schocken (MIT Press)  
   
 ### Computer Systems: A Programmer's Perspective
-[Online Ebook](https://csapp.cs.cmu.edu/)  
+[Systems_Online Ebook](https://csapp.cs.cmu.edu/)  
 Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University  
 
 ### Game Engine
@@ -43,5 +43,5 @@ Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University
 Source code: https://docs.unrealengine.com/5.2/en-US/downloading-unreal-engine-source-code/
 
 ### Physically Based Rendering (PBR)
-[Online Ebook](https://www.pbr-book.org/)  
+[PBR_Online Ebook](https://www.pbr-book.org/)  
 Matt Pharr, Wenzel Jakob, and Greg Humphreys    
