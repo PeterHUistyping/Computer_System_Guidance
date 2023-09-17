@@ -30,6 +30,18 @@ The Repo integrates a collection of my *Computer System Projects*, including Dat
   - and more ...
   
 #### Others' Projects
+### Building a Modern Computer From First Principles
+Noam Nisan and Shimon Schocken (MIT Press)  
+[Official Website](https://www.nand2tetris.org)
+  
+### Computer Systems: A Programmer's Perspective
+Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University
+[Online Ebook](https://csapp.cs.cmu.edu/)
+
 ### Game Engine
 [Unreal Engine](https://www.unrealengine.com/en-US)  
 Source code: https://docs.unrealengine.com/5.2/en-US/downloading-unreal-engine-source-code/
+
+### Physically Based Rendering (PBR)
+Matt Pharr, Wenzel Jakob, and Greg Humphreys    
+[Online Ebook](https://www.pbr-book.org/)
