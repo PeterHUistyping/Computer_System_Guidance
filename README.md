@@ -1,8 +1,10 @@
 # Computer System Guidance
-The Repo integrates a collection of my *Computer System Projects*, including Database, OS, Graphics, Game Engines and others.   
-In addition, there are also materials (paper, ebook, repo, tool, etc) that I found very interesting and helpful attached. I hope it could help you start from beginner to advanced.
-### Links to relevant Project / Repo [submodule]
-#### My Projects
+
+A collection of my *Computer System Projects*, including Database, OS, Graphics, Game Engines and others.   
+
+In addition, there are also references (paper, ebook, repo, tool, etc) that's interesting and helpful, ranging from beginner to advanced.
+
+## My Projects
 ### Operating System
 [Operating_System](https://github.com/PeterHUistyping/Operating_System)
 - *Operating_System, MIT 6.S081*  
@@ -29,7 +31,7 @@ In addition, there are also materials (paper, ebook, repo, tool, etc) that I fou
   - Acceleration
   - and more ...
   
-#### Others' Projects
+## Reference
 ### Building a Modern Computer From First Principles
 [🌐Modern_Computer_Official Website](https://www.nand2tetris.org)  
 Noam Nisan and Shimon Schocken (MIT Press)  
