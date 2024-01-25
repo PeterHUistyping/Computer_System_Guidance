@@ -1,6 +1,15 @@
 # Computer System Guidance
 
-A collection of *Computer System* Projects, including Database, OS and others.
+A collection of *Computer System* Projects, built up from,
+
+- OS
+- Concurrent and Distributed System
+- Computer Architecture
+
+Application domain
+
+- Database
+- Game Engine
 
 In addition, there are also references (paper, ebook, repo, tool, etc) that's interesting and helpful, ranging from beginner to advanced.
 
@@ -27,13 +36,21 @@ xv6 (Unix Version 6)
 - Memory Management (Disk)
   - LRU Replacer
   - Buffer Pool Manager
-- Transaction processing 
-  - ACID, Concurrency Control 
+- Transaction processing
+  - ACID, Concurrency Control
   - Isolation: 2PL, TSO, OCC
   - Durability & Recovery: Logging, Checkpoints
 - Parallel architectures (multi-core, distributed)
 
 ## Reference
+
+### Scheduling Literature Review
+
+[🌐Review](https://peterhuistyping.github.io/CPU_Scheduling_Review/)
+| [Github](https://github.com/PeterHUistyping/CPU_Scheduling_Review)
+- Scheduler (OS)
+- DVFS (cpufreq governor)
+- Dynamic Resource Sleep (OS)
 
 ### Building a Modern Computer From First Principles
 
