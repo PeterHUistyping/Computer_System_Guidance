@@ -42,11 +42,24 @@ xv6 (Unix Version 6)
   - Durability & Recovery: Logging, Checkpoints
 - Parallel architectures (multi-core, distributed)
 
+### Distributed System
 
+[MIT6.824-DS](https://github.com/PeterHUistyping/MIT6.824-6.5840-Distributed-Systems/)
 
+- Consistency and Linearisability
+- Fault Tolerance and replication
+  - Replicated State Machines
+  - Raft
+  - Byzantine Fault Tolerance
+- Distributed Transactions
+  - Isolation: 2PL, TSO, OCC
+
+Case study
+- Google Map Reduce, File System, Spanner
 ### Scheduling Literature Review
-[🌐Review](https://peterhuistyping.github.io/CPU_Scheduling_Review/)
-| [Github](https://github.com/PeterHUistyping/CPU_Scheduling_Review)
+
+[🌐Review](https://peterhuistyping.github.io/CPU_Scheduling_Review/) | [Github](https://github.com/PeterHUistyping/CPU_Scheduling_Review)
+
 - Scheduler (OS)
 - DVFS (cpufreq governor)
 - Dynamic Resource Sleep (OS)
