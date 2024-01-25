@@ -5,6 +5,7 @@ A collection of *Computer System* Projects, built up from,
 - OS
 - Concurrent and Distributed System
 - Computer Architecture
+- Networking, Security, Compiler, etc
 
 Application domain
 
@@ -56,6 +57,7 @@ xv6 (Unix Version 6)
 
 Case study
 - Google Map Reduce, File System, Spanner
+
 ### Scheduling Literature Review
 
 [🌐Review](https://peterhuistyping.github.io/CPU_Scheduling_Review/) | [Github](https://github.com/PeterHUistyping/CPU_Scheduling_Review)
@@ -65,6 +67,14 @@ Case study
 - Dynamic Resource Sleep (OS)
 
 ## Reference
+
+### Software Construction
+[MIT 6.031](https://web.mit.edu/6.031/)
+
+- Topic 21: Concurrency
+- 23: Mutual Exclusion
+- 24: Message passing
+- More on Software related topics
 
 ### Building a Modern Computer From First Principles
 
