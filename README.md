@@ -42,15 +42,16 @@ xv6 (Unix Version 6)
   - Durability & Recovery: Logging, Checkpoints
 - Parallel architectures (multi-core, distributed)
 
-## Reference
+
 
 ### Scheduling Literature Review
-
 [🌐Review](https://peterhuistyping.github.io/CPU_Scheduling_Review/)
 | [Github](https://github.com/PeterHUistyping/CPU_Scheduling_Review)
 - Scheduler (OS)
 - DVFS (cpufreq governor)
 - Dynamic Resource Sleep (OS)
+
+## Reference
 
 ### Building a Modern Computer From First Principles
 
