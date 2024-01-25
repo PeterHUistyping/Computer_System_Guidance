@@ -77,6 +77,15 @@ Case study
 - 24: Message passing
 - More on Software related topics
 
+### Cambridge CompSci
+- [Database @ IA](https://www.cl.cam.ac.uk/teaching/2223/Databases/)
+- [Operating System @ IA](https://www.cl.cam.ac.uk/teaching/2223/OpSystems/)
+- [Concurrent and Distributed @ IB](https://www.cl.cam.ac.uk/teaching/2324/ConcDisSys/)
+- [Computer Architecture @ IB](https://www.cl.cam.ac.uk/teaching/2324/IntComArch/)
+- [Advanced Architecture @ II](https://www.cl.cam.ac.uk/teaching/2324/AdComArch/)
+
+
+
 ### Building a Modern Computer From First Principles
 
 [🌐Modern_Computer_Official Website](https://www.nand2tetris.org)
