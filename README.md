@@ -69,7 +69,8 @@ Case study
 ## Reference
 
 ### Software Construction
-[MIT 6.031](https://web.mit.edu/6.031/)
+
+[🌐MIT 6.031](https://web.mit.edu/6.031/)
 
 - Topic 21: Concurrency
 - 23: Mutual Exclusion
