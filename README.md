@@ -32,15 +32,19 @@ xv6 (Unix Version 6)
 
 - Data Model (relation, key/value)
 - Query (SQL)
-- Storage (heap, log-structure)
 - Indexing (tree, hash tables)
-- Memory Management (Disk)
-  - LRU Replacer
+- Storage (heap, log-structure)
+- Memory Management
   - Buffer Pool Manager
+    - LRU Replacer
+  - Disk Manager
 - Transaction processing
-  - ACID, Concurrency Control
-  - Isolation: 2PL, TSO, OCC
-  - Durability & Recovery: Logging, Checkpoints
+  - Concurrency Control
+  - ACID
+    - Atomicity: all or none
+    - Consistency: invariant
+    - Isolation: 2PL, TSO, OCC
+    - Durability & Recovery: Logging, Checkpoints
 - Parallel architectures (multi-core, distributed)
 
 ### Distributed System
@@ -56,6 +60,7 @@ xv6 (Unix Version 6)
   - Isolation: 2PL, TSO, OCC
 
 Case study
+
 - Google Map Reduce, File System, Spanner
 
 ### Scheduling Literature Review
@@ -78,13 +83,12 @@ Case study
 - More on Software related topics
 
 ### Cambridge CompSci
+
 - [Database @ IA](https://www.cl.cam.ac.uk/teaching/2223/Databases/)
 - [Operating System @ IA](https://www.cl.cam.ac.uk/teaching/2223/OpSystems/)
 - [Concurrent and Distributed @ IB](https://www.cl.cam.ac.uk/teaching/2324/ConcDisSys/)
 - [Computer Architecture @ IB](https://www.cl.cam.ac.uk/teaching/2324/IntComArch/)
 - [Advanced Architecture @ II](https://www.cl.cam.ac.uk/teaching/2324/AdComArch/)
-
-
 
 ### Building a Modern Computer From First Principles
 
