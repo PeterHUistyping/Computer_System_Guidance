@@ -16,19 +16,17 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 ## Projects
 
-### Operating System
+<!-- ### Operating System -->
 
-[MIT 6.S081 Operating_System](https://github.com/PeterHUistyping/Operating_System)
-
-xv6 (Unix Version 6)
+[Operating_System MIT 6.S081](https://github.com/PeterHUistyping/Operating_System), xv6 (Unix Version 6)
 
 - Unix util
 - System Call
 - Page Table
 
-### Database Management System Design
+<!-- ### Database Management System Design -->
 
-[CMU15-445 Database_Management_System](https://github.com/PeterHUistyping/CMU15-445_Database_Management_System)
+[Database_Management_System CMU15-445](https://github.com/PeterHUistyping/CMU15-445_Database_Management_System)
 
 - Data Model (relation, key/value)
 - Query (SQL)
@@ -47,9 +45,9 @@ xv6 (Unix Version 6)
     - Durability & Recovery: Logging, Checkpoints
 - Parallel architectures (multi-core, distributed)
 
-### Distributed System
+<!-- ### Distributed System -->
 
-[MIT6.824-DS](https://github.com/PeterHUistyping/MIT6.824-6.5840-Distributed-Systems/)
+[Distributed_System MIT6.824](https://github.com/PeterHUistyping/MIT6.824-6.5840-Distributed-Systems/)
 
 - Consistency and Linearisability
 - Fault Tolerance and replication
@@ -73,14 +71,19 @@ Case study
 
 ## Reference
 
-### Software Construction
-
-[🌐MIT 6.031](https://web.mit.edu/6.031/)
+🌐 [Software Construction MIT 6.031](https://web.mit.edu/6.031/)
 
 - Topic 21: Concurrency
 - 23: Mutual Exclusion
 - 24: Message passing
 - More on Software related topics
+
+
+🌐 [Building a Modern Computer From First Principles](https://www.nand2tetris.org)
+Noam Nisan and Shimon Schocken (MIT Press)
+
+📖[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University
 
 ### Cambridge CompSci
 
@@ -89,16 +92,6 @@ Case study
 - [Concurrent and Distributed @ IB](https://www.cl.cam.ac.uk/teaching/2324/ConcDisSys/)
 - [Computer Architecture @ IB](https://www.cl.cam.ac.uk/teaching/2324/IntComArch/)
 - [Advanced Architecture @ II](https://www.cl.cam.ac.uk/teaching/2324/AdComArch/)
-
-### Building a Modern Computer From First Principles
-
-[🌐Modern_Computer_Official Website](https://www.nand2tetris.org)
-Noam Nisan and Shimon Schocken (MIT Press)
-
-### Computer Systems: A Programmer's Perspective
-
-[📖Systems_Online Ebook](https://csapp.cs.cmu.edu/)
-Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University
 
 ### Game Engine
 
