@@ -61,13 +61,13 @@ Case study
 
 - Google Map Reduce, File System, Spanner
 
-### Scheduling Literature Review
 
-[🌐Review](https://peterhuistyping.github.io/CPU_Scheduling_Review/) | [Github](https://github.com/PeterHUistyping/CPU_Scheduling_Review)
+[🌐Scheduling Literature Review](https://peterhuistyping.github.io/CPU_Scheduling_Review/) | [Github](https://github.com/PeterHUistyping/CPU_Scheduling_Review)
+- Scheduler (OS), DVFS (cpufreq governor), Dynamic Resource Sleep (OS)
 
-- Scheduler (OS)
-- DVFS (cpufreq governor)
-- Dynamic Resource Sleep (OS)
+
+[🌐Network Architecture Review](./asset/network_arch.html)
+- Augmentation, data center, ML, wireless and mobile, IoT, Transport, Cascades and Cross layer, Resource pooling, MP-TCP, etc.
 
 ## Reference
 
